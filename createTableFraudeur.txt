@@ -1,0 +1,6 @@
+CREATE TABLE `fraudeur` (
+  `noCommerce` VARCHAR(45) NOT NULL,
+  `nbFacture` INT NULL DEFAULT NULL,
+  `nbFactureDupliquer` INT NULL DEFAULT NULL,
+  PRIMARY KEY (`numCommerce`),
+  UNIQUE INDEX `numCommerce_UNIQUE` (`numCommerce` ASC) VISIBLE);

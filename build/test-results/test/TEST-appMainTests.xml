@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="appMainTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-01-13T21:57:06" hostname="LAPTOP-RSLO9E6K" time="0.461">
+  <properties/>
+  <testcase name="supprimerFraudeurParNum()" classname="appMainTests" time="0.336"/>
+  <testcase name="test10()" classname="appMainTests" time="0.001"/>
+  <testcase name="rechercheFraudeur()" classname="appMainTests" time="0.025"/>
+  <testcase name="ajouterFraudeur()" classname="appMainTests" time="0.027"/>
+  <testcase name="test9()" classname="appMainTests" time="0.001"/>
+  <testcase name="analyseFacturesDifferentes()" classname="appMainTests" time="0.025"/>
+  <testcase name="analyseFacturesDupliquees()" classname="appMainTests" time="0.042"/>
+  <testcase name="chargementFacturesDifferentes()" classname="appMainTests" time="0.001"/>
+  <testcase name="chargementFacturesDupliquees()" classname="appMainTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
